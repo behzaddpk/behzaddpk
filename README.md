@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python/Django Development
 - 🌱 I’m currently learning Python Core
 - 💞️ I’m looking to collaborate on Python/Django or Machine Learning/AI
-- 📫 How to reach me www.linkedin.com/behzaddpk
+- 📫 How to reach me [www.linkedin.com/behzaddpk](https://www.linkedin.com/in/behzaddpk/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
